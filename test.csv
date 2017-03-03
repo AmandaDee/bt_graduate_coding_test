@@ -1,0 +1,23 @@
+Hostname,IP Address,Patched?,OS Version,Notes
+A.example.COM,1.1.1.1,NO,11,Faulty fans
+b.example.com,1.1.1.2,no,13,Behind the other routers so no one sees it
+C.EXAMPLE.COM,1.1.1.3,no,12.1,
+d.example.com,1.1.1.4,yes,14,
+c.example.com,1.1.1.5,no,12,Case a bit loose
+e.example.com,1.1.1.6,no,12.3,
+f.example.com,1.1.1.7,No,12.200,
+g.example.com,1.1.1.8,no,15.0,Guarded by sharks with lasers on their heads
+
+
+h.example.com,1.1.1.9.9,No,12.200, Invalid IP
+i.example.com,1.1.1.8,No,12.200, Duplicate IP
+j.example.com,1.1.1.8,No,12.200, Duplicate IP
+
+k.example.com, 2001:0db8:85a3:0000:0000:8a2e:0370:7334,No,12.200,IPV6 address
+l.example.com , 1.1.1.9, No, 12.200, can handle spaces
+
+IGNORES INVALID DATA:
+..,,knjbytyersrduriftugoyih;
+,,,,,,
+,,,,
+hygukuky,d,sjkbeiuc
